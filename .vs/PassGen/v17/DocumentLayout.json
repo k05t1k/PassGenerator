@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\viewmodel\\emptyhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\viewmodel\\emptyhistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\view\\emptyhistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\view\\emptyhistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\view\\emptyhistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\view\\emptyhistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\model\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\model\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\view\\tabhistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\view\\tabhistorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\view\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\view\\historywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\model\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\model\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\viewmodel\\tabshistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\viewmodel\\tabshistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\view\\tabhistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\view\\tabhistorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\viewmodel\\helpers\\bindinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\viewmodel\\helpers\\bindinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\viewmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\viewmodel\\helpers\\bindablecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\view\\historywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\view\\historywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|c:\\users\\cutec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\passgen\\passgen\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CEB0422E-20AC-4F0F-9044-4FB356A474B8}|PassGen\\PassGen.csproj|solutionrelative:passgen\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmptyHistoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\EmptyHistoryPage.xaml",
+              "RelativeDocumentMoniker": "PassGen\\View\\EmptyHistoryPage.xaml",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\EmptyHistoryPage.xaml",
+              "RelativeToolTip": "PassGen\\View\\EmptyHistoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T15:45:00.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\Model\\History.cs",
+              "RelativeDocumentMoniker": "PassGen\\Model\\History.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\Model\\History.cs",
+              "RelativeToolTip": "PassGen\\Model\\History.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:32:30.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TabHistoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\TabHistoryPage.xaml",
+              "RelativeDocumentMoniker": "PassGen\\View\\TabHistoryPage.xaml",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\TabHistoryPage.xaml",
+              "RelativeToolTip": "PassGen\\View\\TabHistoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T15:45:44.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmptyHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\EmptyHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "PassGen\\ViewModel\\EmptyHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\EmptyHistoryViewModel.cs",
+              "RelativeToolTip": "PassGen\\ViewModel\\EmptyHistoryViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:47:25.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PassGen\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "PassGen\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAYwHEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:56:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmptyHistoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\EmptyHistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "PassGen\\View\\EmptyHistoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\EmptyHistoryPage.xaml.cs",
+              "RelativeToolTip": "PassGen\\View\\EmptyHistoryPage.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:49:08.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistoryWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\HistoryWindow.xaml",
+              "RelativeDocumentMoniker": "PassGen\\View\\HistoryWindow.xaml",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\HistoryWindow.xaml",
+              "RelativeToolTip": "PassGen\\View\\HistoryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T15:44:08.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\Model\\Type.cs",
+              "RelativeDocumentMoniker": "PassGen\\Model\\Type.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\Model\\Type.cs",
+              "RelativeToolTip": "PassGen\\Model\\Type.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:35:17.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TabsHistoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\TabsHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "PassGen\\ViewModel\\TabsHistoryViewModel.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\TabsHistoryViewModel.cs",
+              "RelativeToolTip": "PassGen\\ViewModel\\TabsHistoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:48:09.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TabHistoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\TabHistoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "PassGen\\View\\TabHistoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\TabHistoryPage.xaml.cs",
+              "RelativeToolTip": "PassGen\\View\\TabHistoryPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:49:40.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PassGen\\View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\MainWindow.xaml",
+              "RelativeToolTip": "PassGen\\View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T15:19:33.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PassGen\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\App.xaml.cs",
+              "RelativeToolTip": "PassGen\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:03:09.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PassGen\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PassGen\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T13:29:16.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BindingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\Helpers\\BindingHelper.cs",
+              "RelativeDocumentMoniker": "PassGen\\ViewModel\\Helpers\\BindingHelper.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\Helpers\\BindingHelper.cs",
+              "RelativeToolTip": "PassGen\\ViewModel\\Helpers\\BindingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:00:45.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BindableCommand.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\Helpers\\BindableCommand.cs",
+              "RelativeDocumentMoniker": "PassGen\\ViewModel\\Helpers\\BindableCommand.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\ViewModel\\Helpers\\BindableCommand.cs",
+              "RelativeToolTip": "PassGen\\ViewModel\\Helpers\\BindableCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:03:59.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HistoryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\HistoryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PassGen\\View\\HistoryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\View\\HistoryWindow.xaml.cs",
+              "RelativeToolTip": "PassGen\\View\\HistoryWindow.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T15:44:36.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\App.xaml",
+              "RelativeDocumentMoniker": "PassGen\\App.xaml",
+              "ToolTip": "C:\\Users\\cutec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\learn 2 course\\c# programming\\PassGen\\PassGen\\App.xaml",
+              "RelativeToolTip": "PassGen\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T13:29:45.052Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.exe
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.deps.json
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.runtimeconfig.json
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.dll
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.pdb
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.csproj.AssemblyReference.cache
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen_MarkupCompile.cache
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen_MarkupCompile.lref
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\App.baml
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.g.resources
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.AssemblyInfoInputs.cache
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.AssemblyInfo.cs
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.csproj.CoreCompileInputs.cache
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.csproj.Up2Date
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.dll
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\refint\PassGen.dll
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.pdb
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.genruntimeconfig.cache
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\ref\PassGen.dll
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\View\EmptyHistoryPage.g.cs
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\View\HistoryWindow.g.cs
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\View\TabHistoryPage.g.cs
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\View\EmptyHistoryPage.baml
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\View\HistoryWindow.baml
+C:\Users\cutec\source\repos\PassGen\PassGen\obj\Debug\net8.0-windows\View\TabHistoryPage.baml
+C:\Users\cutec\source\repos\PassGen\PassGen\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.csproj.AssemblyReference.cache
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\View\EmptyHistoryPage.g.cs
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\View\HistoryWindow.g.cs
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\View\TabHistoryPage.g.cs
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen_MarkupCompile.cache
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen_MarkupCompile.lref
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.dll
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\refint\PassGen.dll
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.pdb
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.exe
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.deps.json
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.runtimeconfig.json
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.dll
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\PassGen.pdb
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\App.baml
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\View\EmptyHistoryPage.baml
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\View\HistoryWindow.baml
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\View\TabHistoryPage.baml
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.g.resources
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.AssemblyInfoInputs.cache
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.AssemblyInfo.cs
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.csproj.CoreCompileInputs.cache
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.csproj.Up2Date
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\PassGen.genruntimeconfig.cache
+C:\Users\cutec\OneDrive\Рабочий стол\learn 2 course\c# programming\PassGen\PassGen\obj\Debug\net8.0-windows\ref\PassGen.dll
